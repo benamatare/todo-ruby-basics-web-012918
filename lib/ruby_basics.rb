@@ -7,10 +7,10 @@ value = name
 end
 
 def argue
-
+return argue
 end
 
-def greeting
+def greeting(part_1, part_2)
 
 end
 
